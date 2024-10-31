@@ -3,9 +3,9 @@
 Um aplicativo Python com interface gráfica para gerenciar um estoque, conectando-se a um banco de dados SQL Server.
 
 ## Funcionalidades
-**Cadastro de produtos:** Adicione novos produtos ao estoque, incluindo nome, data de validade, lote e quantidade.
-**Gerenciamento de estoque:** Atualize a quantidade de produtos em estoque e consulte informações sobre produtos específicos.
-**Exclusão de produtos:** Remova produtos do estoque.
+* **Cadastro de produtos:** Adicione novos produtos ao estoque, incluindo nome, data de validade, lote e quantidade.
+* **Gerenciamento de estoque:** Atualize a quantidade de produtos em estoque e consulte informações sobre produtos específicos.
+* **Exclusão de produtos:** Remova produtos do estoque.
 
 ## Pré-requisitos
 **Python:** Versão 3.x (recomenda-se 3.6 ou superior)
